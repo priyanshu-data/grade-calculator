@@ -1,0 +1,35 @@
+"C:\Users\PRIYA\PycharmProjects\simple calculator\venv\Scripts\python.exe" "C:/Users/PRIYA/Desktop/py files/grade_calculator.py"
+Priyansu Yadav
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Average marks of Priyansu Yadav is : 72.79 
+Letter Grade of Priyansu Yadav is : C
+
+Prashant Singh
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Average marks of Prashant Singh is : 75.962 
+Letter Grade of Prashant Singh is : C
+
+Pankaj Kesarkar
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Average marks of Pankaj Kesarkar is : 75.775 
+Letter Grade of Pankaj Kesarkar is : C
+
+Chetan Sule
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Average marks of Chetan Sule is : 48.356 
+Letter Grade of Chetan Sule is : E
+
+Abhishek Shriramwar
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Average marks of Abhishek Shriramwar is : 57.26 
+Letter Grade of Abhishek Shriramwar is : E
+
+Lloyd Nadar
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Average marks of Lloyd Nadar is : 56.11 
+Letter Grade of Lloyd Nadar is : E
+
+Class Average is 72.79
+Letter Grade of the class is C 
+
+Process finished with exit code 0
